@@ -54,7 +54,7 @@ main {
   gap: 2rem;
   min-width: 320px;
   min-height: 85vh;
-  background-color: #f9fafb;
+  background-color: #b2d1ef;
 }
 
 footer {
@@ -89,7 +89,7 @@ footer {
   justify-content: center;
   padding: 1rem 2rem;
   width: fit-content;
-  background-color: #ffffff;
+  background-color: #fec954;
   border: 1px solid #eaeaea;
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   border-radius: 10px;
