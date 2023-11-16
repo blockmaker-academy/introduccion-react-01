@@ -1,10 +1,14 @@
-import TituloEjercicio from '../TituloEjercicio'
+import TituloEjercicio from "../TituloEjercicio";
+import Saludar from "./Saludar";
+import SaludarMundo from "./SaludarMundo";
 
 export default function Ejercicio1() {
   return (
     <section className="caja-ejercicio">
       <TituloEjercicio>Este es el ejercicio 1</TituloEjercicio>
-      {/* Añade el resto del ejercicio aqui */}
+
+      <Saludar nombre="Ervigio"/>
+      <SaludarMundo nombre="Ervigio"/>
     </section>
-  )
+  );
 }
